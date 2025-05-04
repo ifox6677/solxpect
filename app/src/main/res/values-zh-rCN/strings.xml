@@ -103,7 +103,6 @@
     <string name="permission_required">需要权限</string>
     <string name="permission_message">%s需要访问外部存储。请授予权限后重试。</string>
     <string name="toast_delete">请删除文件后重试</string>
-    <string name="restore_database_message">从文档文件夹恢复数据。打开'文档'文件夹并选择solXpect.zip文件（如需要）！</string>
     <string name="settings_summarize">显示总和</string>
     <string name="summary_summarize">汇总相同经纬度模块的值。</string>
     <string name="dialog_add_clone_button">克隆</string>
