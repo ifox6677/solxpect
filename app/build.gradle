@@ -16,7 +16,7 @@ android {
     compileSdk 34
 
     defaultConfig {
-        applicationId "org.woheller69.solxpect"
+        applicationId "org.ifox6677.solxpect"
         minSdkVersion 26
         targetSdk 34
         versionCode 26
@@ -25,7 +25,7 @@ android {
         buildConfigField "String", "BASE_URL", "\"https://api.open-meteo.com/v1/\""
         buildConfigField "String", "TILES_URL","\"https://tile.openstreetmap.org/\""
         buildConfigField "String", "GEOCODING_URL","\"https://geocoding-api.open-meteo.com/\""
-        buildConfigField "String", "GITHUB_URL","\"https://github.com/woheller69/solxpect/\""
+        buildConfigField "String", "GITHUB_URL","\"https://github.com/dawan/solxpect/\""
     }
 
     buildTypes {
